@@ -57,6 +57,7 @@ class AlternateDemo{
 		try{
 			if(number!=1){				
 				con1.await();			 
+			
 			}	for(int i=0;i<5;i++){
 					System.out.println(Thread.currentThread().getName()+":"+i+"\t"+totalloop);
 				}
