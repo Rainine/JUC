@@ -9,7 +9,7 @@ public class TestABC {
 	 * 三个线程的ID分别为A,B,C,
 	 * 每个线程都将打印自己的ID在屏幕上打印10遍，
 	 * 要求输出结果必须按顺序显示,
-	 * 如ABCABCABC,依次递归 
+	 * 如ABCABCABC,依次递归 --==========
 	 */
 
 	public static void main(String[] args) {
